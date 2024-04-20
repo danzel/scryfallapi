@@ -963,6 +963,7 @@ definitions:
       - convertdfc
       - fandfc
       - upsidedowndfc
+      - spree
     type: string
     x-ms-enum:
       name: frame_effect
