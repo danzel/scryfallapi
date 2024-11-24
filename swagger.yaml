@@ -964,6 +964,7 @@ definitions:
       - fandfc
       - upsidedowndfc
       - spree
+      - enchantment
     type: string
     x-ms-enum:
       name: frame_effect
